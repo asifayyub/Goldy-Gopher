@@ -1,0 +1,164 @@
+﻿
+
+@model MVC_Application.Models.HomeModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Golder Gopher</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 90vh;
+        }
+
+        .tableClass {
+            background-color: #F2F3F5;
+            border-radius: 10px;
+            padding: 50px;
+            height: 350px;
+            box-shadow: 1px 1px 2px 1px #B8B8B8;
+            
+        }
+
+        .tableInputClass {
+            height: 25px;
+            border-radius: 5px;
+            border: none;
+            margin-left: 5px;
+        }
+
+        .buttonClass {
+            
+            margin-left: 5px;
+            background-color: #0d120f;
+            border-radius: 31px;
+            border: 1px solid #010801;
+            cursor: pointer;
+            color: #f7f7f7;
+            font-family: sans-serif;
+            padding: 12px 55px;
+            text-decoration: none;
+            
+        }
+
+        .head{
+            font-family:sans-serif;
+        }
+
+        .lower{
+            font-family: sans-serif;
+        }
+
+
+        .upper{
+            font-family: sans-serif;
+        }
+        .outputContainerClass{
+            display: flex;
+
+            align-items: center;
+            flex-direction: column;
+            font-family: sans-serif;
+        }
+
+        .errorMessageClass {
+            color: red;
+            font-size:large;
+            padding:3px;
+            font-family: sans-serif;
+            border-radius:4px;
+        }
+
+        .instructiontouser {
+            color: cadetblue;
+            font-size: large;
+            padding: 3px;
+            font-family: sans-serif;
+            border-radius: 4px;
+        }
+
+        .outI{
+             width: 250px;
+            border: 1px solid  #F5F5F5;
+            padding:10px;
+            border-radius:10px;
+        }
+
+    </style>
+
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+    <table class="tableClass">
+       <tr>
+            <th class="head" colspan="2" >ENTER THE NUMBER</th>
+       </tr>
+           
+       <tr>
+            <td class="lower">LowerBound: </td> 
+            <td>
+                @Html.TextBoxFor(m => m.LowerBound, new { Class = "tableInputClass" })
+            </td>
+       </tr>
+
+       <tr>
+                
+            <td class="upper">UpperBound: </td>
+            <td>
+                @Html.TextBoxFor(m => m.UpperBound, new { Class = "tableInputClass" })
+            </td>
+
+       </tr>
+
+       <tr>
+            <td></td>
+            <td><input class="buttonClass" type="submit" value="Submit" /></td>
+        </tr>
+
+    </table>
+
+    <div class="outputContainerClass">
+
+        @if(@ViewBag.Lower == @ViewBag.Upper){
+                <p class="instructiontouser"> Please enter any value ranging from 0 to any</p>
+        } else if(@ViewBag.Lower > @ViewBag.Upper){
+            <p class="errorMessageClass">Lower value cannot be greater than Upper value</p>
+        } else{
+            <div class="outputClass">
+                @{
+                    for (int i = @ViewBag.Lower; i <= @ViewBag.Upper; i++)
+                    {
+                        if (i % 3 == 0 && i % 7 == 0)
+                        {
+                             <h3 class="outI" >Goldy Gopher</h3>
+                        }
+                        else if (i % 7 == 0)
+                        {
+                            <h3 class="outI" >Gopher</h3>
+                        }
+                        else if (i % 3 == 0)
+                        {
+                             <h3 class="outI">Goldy</h3>
+                        }
+                        else
+                        {
+                             <h3 class="outI">@i</h3>
+                        }
+                    }
+                }
+            </div>
+        }
+    </div>
+    }
+</body>
+</html>

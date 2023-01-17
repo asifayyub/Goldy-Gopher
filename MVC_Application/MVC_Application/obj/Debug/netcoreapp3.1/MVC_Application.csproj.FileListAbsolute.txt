@@ -1,0 +1,80 @@
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.exe
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.deps.json
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.runtimeconfig.json
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.runtimeconfig.dev.json
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.dll
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.pdb
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.Views.dll
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.Views.pdb
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.AssemblyReference.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.AssemblyInfoInputs.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.AssemblyInfo.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.CoreCompileInputs.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorAssemblyInfo.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorAssemblyInfo.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Application.StaticWebAssets.Manifest.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Application.StaticWebAssets.xml
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC_Application.styles.css
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.TagHelpers.input.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.TagHelpers.output.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorCoreGenerate.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorTargetAssemblyInfo.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorTargetAssemblyInfo.cs
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.Views.pdb
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.dll
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.pdb
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.genruntimeconfig.cache
+D:\Clients Data\ASP.NET\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.CopyComplete
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.StaticWebAssets.xml
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.exe
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.deps.json
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.runtimeconfig.json
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.runtimeconfig.dev.json
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.dll
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.pdb
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.Views.dll
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\bin\Debug\netcoreapp3.1\MVC_Application.Views.pdb
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.AssemblyReference.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.AssemblyInfoInputs.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.AssemblyInfo.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.CoreCompileInputs.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorAssemblyInfo.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorAssemblyInfo.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Application.StaticWebAssets.Manifest.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Application.StaticWebAssets.Pack.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Application.props
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Application.props
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Application.props
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.TagHelpers.input.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.TagHelpers.output.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorCoreGenerate.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorTargetAssemblyInfo.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.RazorTargetAssemblyInfo.cs
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.Views.pdb
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.dll
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.pdb
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.genruntimeconfig.cache
+C:\Users\asifa\OneDrive\Documents\MVC_Application\MVC_Application\MVC_Application\obj\Debug\netcoreapp3.1\MVC_Application.csproj.CopyComplete

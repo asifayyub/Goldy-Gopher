@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yry1g2ZkA5ydqp3HIXAvFWkhHAniZ5pgUDRHdk/2mV4zD9G+ZngZUELRNQGeQdrGqrwcjmmVe0/ItUlkzsLhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asifa\\OneDrive\\Documents\\MVC_Application\\MVC_Application\\MVC_Application\\MVC_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asifa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
