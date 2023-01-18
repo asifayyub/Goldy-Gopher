@@ -4,6 +4,7 @@
 
 
 <form method="post" asp-controller="Home" asp-action="Index">
+ 
                     <header class ="head" >ENTER THE NUMBER</header>
                     <div>
                     <label asp-for="LowerBound" class="lower">Lower Bound</label>
