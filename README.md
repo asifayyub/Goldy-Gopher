@@ -1,6 +1,6 @@
 # Goldy Gopher
  I have used MVC Core. Please clone this repo and click on MVC_Application.sln. it will load the project in visual Studio. 
-# i realise the better way to  making form with the helper tag
+# i realise the better way to  make form with the helper tag
 <form method="post" asp-controller="Home" asp-action="Index">
                 
                     <header class ="head" >ENTER THE NUMBER</header>
