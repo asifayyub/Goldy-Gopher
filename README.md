@@ -1,6 +1,6 @@
 # Goldy Gopher
  I have used MVC Core. Please clone this repo and click on MVC_Application.sln. it will load the project in visual Studio. 
-# i realize the better way to  make form with the helper tag
+# i realize the better way to  make form with the helper tag, i used tr td which is not the right way to create form. i am attaching this code.
 
             <form method="post" asp-controller="Home" asp-action="Index">
                 
