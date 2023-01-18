@@ -3,7 +3,7 @@
 # i realise the better way to  make form with the helper tag
 
 
-# <form method="post" asp-controller="Home" asp-action="Index">
+# <form method="post">
                     <header class ="head" >ENTER THE NUMBER</header>
                     <div>
                     <label asp-for="LowerBound" class="lower">Lower Bound</label>
